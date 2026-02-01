@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+.tool-versions
+mise.toml
